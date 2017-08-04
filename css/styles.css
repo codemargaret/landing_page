@@ -11,3 +11,10 @@ body {
   border-bottom-color: darkcyan;
   border-bottom-width: medium;
 }
+
+img {
+  float: right;
+  border: solid;
+  border-color: darkcyan;
+  border-width: medium;
+}
