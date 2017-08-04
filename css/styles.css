@@ -13,7 +13,7 @@ body {
   border-bottom-width: medium;
 }
 
-img {
+img.main {
   float: right;
   border: solid;
   border-color: darkcyan;
@@ -36,4 +36,14 @@ th, td {
   color: darkcyan;
   font-size: 120%;
   text-decoration: underline;
+}
+
+li.first {
+  font-weight: bold;
+}
+
+.clear {
+  z-index: 1;
+  position: relative;
+  float: right;
 }
