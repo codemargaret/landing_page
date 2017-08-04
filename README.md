@@ -10,11 +10,11 @@ _This landing page for my programming portfolio lists links for my current proje
 
 ## Setup/Installation Requirements
 
-* _No special setup is required to view the web page._
-* _To access the projects:_
+* _No special setup is required to view the web page online. Simply click the GitHub Pages link._
+* _To access the projects, complete the following steps:_
 * _Clone the repository._
+* _Open HTML, CSS, and Bootstrap files in a text editor such as Atom for a closer look at the code._
 * _Click on the HTML file to open the page locally._
-* _Open HTML, CSS, and Bootstrap files in a text editor such as Atom for a closer look at the code.
 
 ## Known Bugs
 
