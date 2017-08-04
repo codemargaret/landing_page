@@ -3,7 +3,7 @@
 }
 
 body {
-  background-color: lightcyan;
+  background-color: darkcyan;
 }
 
 .cyanline {
@@ -17,4 +17,8 @@ img {
   border: solid;
   border-color: darkcyan;
   border-width: medium;
+}
+
+h1 {
+  text-align: center;
 }
