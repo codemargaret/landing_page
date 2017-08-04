@@ -6,7 +6,7 @@
 
 ## Description
 
-_This [landing page] (https://margaret85.github.io/landing_page/) for my programming portfolio lists links for my current projects.  It also provides information about me, including education, work experience, skills, and interests._
+_This landing page for my programming portfolio lists links for my current projects.  It also provides information about me, including education, work experience, skills, and interests._
 
 ## Setup/Installation Requirements
 
@@ -15,6 +15,8 @@ _This [landing page] (https://margaret85.github.io/landing_page/) for my program
 * _Clone the repository._
 * _Open HTML, CSS, and Bootstrap files in a text editor such as Atom for a closer look at the code._
 * _Click on the HTML file to open the page locally._
+
+[Portfolio](https://margaret85.github.io/landing_page/)
 
 ## Known Bugs
 
