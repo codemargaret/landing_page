@@ -1,0 +1,13 @@
+.exciting {
+  color: darkcyan;
+}
+
+body {
+  background-color: lightcyan;
+}
+
+.cyanline {
+  border-bottom-style: solid;
+  border-bottom-color: darkcyan;
+  border-bottom-width: medium;
+}
