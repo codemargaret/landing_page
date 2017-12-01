@@ -8,7 +8,7 @@
 _This landing page for my programming portfolio lists links for my current projects.  It also provides information about me, including education, work experience, skills, and interests._
 
 ## Setup/Installation Requirements
-* _No special setup is required to view the web page online. Simply click here: [Portfolio](https://margaret85.github.io/landing_page/)_
+* _No special setup is required to view the web page online. Simply click here: [Portfolio](https://codemargaret.github.io/landing_page/)_
 * _To access the projects, complete the following steps:_
 
 1. `$ git clone` [this repository](https://github.com/codemargaret/landing_page.git)
